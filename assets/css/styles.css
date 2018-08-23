@@ -365,7 +365,15 @@
         padding-top: 5vh;
         padding-bottom: 5vh;
         text-align: center;
-        font-size: 28px;
+        font-size: 24px;
+        color: rgb(13, 26, 38);
+    }
+
+    #second-title {
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+        text-align: center;
+        font-size: 20px;
         color: rgb(13, 26, 38);
     }
 
@@ -375,4 +383,10 @@
 
     hr {
         color: black;
+    }
+
+    #list-1{
+        padding-left: 10vh;
+        padding-top: 3vh;
+        padding-bottom: 3vh;
     }
